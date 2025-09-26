@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+
+{% block title %}Página Inicial{% endblock %}
+
+{% block content %}
+<h1>Bem-vindo ao Sistema</h1>
+<p>Escolha uma das opções no menu acima ou clique nos botões abaixo:</p>
+<a href="{% url 'contato' %}" class="btn btn-primary">Contato</a>
+<a href="{% url 'reserva' %}" class="btn btn-success">Reservas</a>
+{% endblock %}
