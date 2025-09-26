@@ -2,7 +2,7 @@
 
 ## 📝 Sistema de Página de Contato em Django
 
-![Capa do Projeto - Contact](contact.png)
+![Capa do Projeto - Contact](contact1.png)
 ![Capa do Projeto - Contact](admin.png)
 ![Capa do Projeto - Contact](agenda.png)
 
