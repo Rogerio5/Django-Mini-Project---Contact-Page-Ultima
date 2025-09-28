@@ -20,7 +20,8 @@
 
 ## 📋 Índice / Table of Contents
 
-- [📖 Descrição / Description](#📖-descrição--description)   
+- [📖 Descrição / Description](#📖-descrição--description)
+- - [📌 Status do Projeto / Project Status](#-status-do-projeto--project-status)    
 - [⚙️ Funcionalidades / Features](#⚙️-funcionalidades--features)  
 - [🚀 Execução / Execution](#🚀-execução--execution)  
 - [🌐 Acesso / Access](#🌐-acesso--access)  
@@ -52,6 +53,19 @@ The system allows:
 - Form with Name, Email, and Message fields  
 - Saving messages into the database  
 - Viewing and managing messages in the **Django Admin**  
+
+---
+
+## 📌 Status do Projeto / Project Status
+
+![Status](https://img.shields.io/badge/Status-Concluído%2FArchived-blueviolet?style=for-the-badge)
+
+**PT:**  
+Este projeto foi **concluído** e está mantido aqui apenas como **referência histórica**.  
+Ele representa a **primeira versão** do exercício da Ultima.School, focado apenas em uma página de contato simples.  
+
+A versão mais atualizada e completa, com **sistema de reservas** e **API REST**, está disponível em:  
+👉 [Django-Mini-Project---Contact-Page-Ultima-API](https://github.com/Rogerio5/Django-Mini-Project---Contact-Page-Ultima-API)
 
 ---
 
@@ -136,19 +150,6 @@ EN:
     Contact page: http://127.0.0.1:8000/contato/
     
     Admin panel: http://127.0.0.1:8000/admin/
-
----
-
-## 📌 Status do Projeto
-
-![Status](https://img.shields.io/badge/Status-Concluído%2FArchived-blueviolet?style=for-the-badge)
-
-**PT:**  
-Este projeto foi **concluído** e está mantido aqui apenas como **referência histórica**.  
-Ele representa a **primeira versão** do exercício da Ultima.School, focado apenas em uma página de contato simples.  
-
-A versão mais atualizada e completa, com **sistema de reservas** e **API REST**, está disponível em:  
-👉 [Django-Mini-Project---Contact-Page-Ultima-API](https://github.com/Rogerio5/Django-Mini-Project---Contact-Page-Ultima-API)
 
 ---
 
