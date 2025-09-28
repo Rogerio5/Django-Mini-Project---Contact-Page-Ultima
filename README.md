@@ -139,13 +139,9 @@ EN:
 
 ---
 
-# 📬 Django-Mini-Project---Contact-Page-Ultima
+## 📌 Status do Projeto
 
 ![Status](https://img.shields.io/badge/Status-Concluído%2FArchived-blueviolet?style=for-the-badge)
-
----
-
-## 📌 Status do Projeto
 
 **PT:**  
 Este projeto foi **concluído** e está mantido aqui apenas como **referência histórica**.  
