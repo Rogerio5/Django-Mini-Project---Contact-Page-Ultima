@@ -139,6 +139,31 @@ EN:
 
 ---
 
+# 📬 Django-Mini-Project---Contact-Page-Ultima
+
+![Status](https://img.shields.io/badge/Status-Concluído%2FArchived-blueviolet?style=for-the-badge)
+
+---
+
+## 📌 Status do Projeto
+
+**PT:**  
+Este projeto foi **concluído** e está mantido aqui apenas como **referência histórica**.  
+Ele representa a **primeira versão** do exercício da Ultima.School, focado apenas em uma página de contato simples.  
+
+A versão mais atualizada e completa, com **sistema de reservas** e **API REST**, está disponível em:  
+👉 [Django-Mini-Project---Contact-Page-Ultima-API](https://github.com/Rogerio5/Django-Mini-Project---Contact-Page-Ultima-API)
+
+---
+
+**EN:**  
+This project is **completed** and kept here only as a **historical reference**.  
+It represents the **first version** of the Ultima.School exercise, focused only on a simple contact page.  
+
+The most updated and complete version, with a **reservation system** and a **REST API**, is available at:  
+👉 [Django-Mini-Project---Contact-Page-Ultima-API](https://github.com/Rogerio5/Django-Mini-Project---Contact-Page-Ultima-API)
+
+---
 
 ## 🌐 Acesso / Access
 
